@@ -1,0 +1,6 @@
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business.UnitTest\bin\Debug\net8.0\CoverletSourceRootsMapping_BankApplication.Business.UnitTest
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business.UnitTest\obj\Debug\net8.0\BankApplication.Business.UnitTest.csproj.AssemblyReference.cache
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business.UnitTest\obj\Debug\net8.0\BankApplication.Business.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business.UnitTest\obj\Debug\net8.0\BankApplication.Business.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business.UnitTest\obj\Debug\net8.0\BankApplication.Business.UnitTest.AssemblyInfo.cs
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business.UnitTest\obj\Debug\net8.0\BankApplication.Business.UnitTest.csproj.CoreCompileInputs.cache

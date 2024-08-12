@@ -1,0 +1,16 @@
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\bin\Debug\net8.0\BankApplication.DataAccess.deps.json
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\bin\Debug\net8.0\BankApplication.DataAccess.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\bin\Debug\net8.0\BankApplication.DataAccess.pdb
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\bin\Debug\net8.0\BankApplication.CommonLayer.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\bin\Debug\net8.0\BankApplication.CommonLayer.pdb
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.AssemblyInfo.cs
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankAppl.518257FC.Up2Date
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\refint\BankApplication.DataAccess.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.pdb
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\ref\BankApplication.DataAccess.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\bin\Debug\net8.0\Policy.properties

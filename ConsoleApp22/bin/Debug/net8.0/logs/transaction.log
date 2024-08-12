@@ -1,0 +1,753 @@
+2024-08-06 20:42:51.1152|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 20:42:51.1402|INFO|ConsoleApp22.Program|Account created: 
+2024-08-06 20:42:51.1618|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InactiveAccountException: Account is inactive
+   at ConsoleApp22.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 118
+   at ConsoleApp22.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 47
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 46
+2024-08-06 20:49:21.5808|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 20:49:21.6005|INFO|ConsoleApp22.Program|Account created: 
+2024-08-06 20:49:21.6129|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InactiveAccountException: Account is inactive
+   at ConsoleApp22.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 118
+   at ConsoleApp22.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 47
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 49
+2024-08-06 20:49:49.1823|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 20:49:49.1974|INFO|ConsoleApp22.Program|Account created: 
+2024-08-06 20:49:49.2112|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InactiveAccountException: Account is inactive
+   at ConsoleApp22.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 118
+   at ConsoleApp22.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 47
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 50
+2024-08-06 20:52:36.9387|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 20:52:36.9529|INFO|ConsoleApp22.Program|Account created: 
+2024-08-06 20:52:36.9673|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InactiveAccountException: Account is inactive
+   at ConsoleApp22.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 118
+   at ConsoleApp22.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 47
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 50
+2024-08-06 22:02:29.3696|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 22:02:29.4036|INFO|ConsoleApp22.Program|Account created: 
+2024-08-06 22:02:29.4215|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InactiveAccountException: Account is inactive
+   at ConsoleApp22.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 118
+   at ConsoleApp22.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 47
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 50
+2024-08-06 22:05:10.5401|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 22:05:10.5715|INFO|ConsoleApp22.Program|Account created: newAccount.AccNo
+2024-08-06 22:05:10.5901|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InactiveAccountException: Account is inactive
+   at ConsoleApp22.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 118
+   at ConsoleApp22.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 47
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 53
+2024-08-06 22:06:41.7392|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 22:06:41.7628|INFO|ConsoleApp22.Program|Account created: 
+2024-08-06 22:06:41.7628|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InactiveAccountException: Account is inactive
+   at ConsoleApp22.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 118
+   at ConsoleApp22.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 47
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 53
+2024-08-06 22:11:19.7272|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 22:11:19.7740|INFO|ConsoleApp22.Program|Account created: 
+2024-08-06 22:11:19.7945|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InactiveAccountException: Account is inactive
+   at ConsoleApp22.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 118
+   at ConsoleApp22.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 47
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 54
+2024-08-06 22:13:28.9097|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 22:13:28.9673|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-06 22:13:28.9744|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-06 22:13:28.9888|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-06 22:13:29.0189|ERROR|ConsoleApp22.Program|An error occured
+ConsoleApp22.InvalidTransactionTypeException: Invalid transaction type.
+   at ConsoleApp22.TransactionLog.GetTransactions(String accNo, TransactionType type) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\TransactionLog.cs:line 40
+   at ConsoleApp22.AccountManager.GetTotalTransferredToday(String accNo) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 128
+   at ConsoleApp22.AccountManager.TransferFunds(Transfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 65
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 78
+2024-08-06 22:26:38.0515|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 22:26:38.1038|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-06 22:26:38.1176|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-06 22:26:38.1341|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-06 22:26:38.1379|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-06 22:26:38.1379|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-06 22:26:38.1379|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-06 22:26:38.1379|INFO|ConsoleApp22.Program|External transfer of 1000.00 initiated from account SAV1002 to external account 9876543210
+2024-08-06 22:49:02.4949|INFO|ConsoleApp22.Program|Application started.
+2024-08-06 22:49:02.5349|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-06 22:49:02.5412|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-06 22:49:02.5509|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-06 22:49:02.5509|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-06 22:49:02.5509|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-06 22:49:02.5509|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-06 22:49:02.5509|INFO|ConsoleApp22.Program|External transfer of 1000.00 initiated from account SAV1002 to external account 9876543210
+2024-08-07 01:12:48.8221|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 01:12:48.8491|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 01:12:48.8491|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 01:12:48.8595|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 01:12:48.8595|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 01:12:48.8595|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 01:12:48.8595|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 01:12:48.8595|INFO|ConsoleApp22.Program|External transfer of 1000.00 initiated from account SAV1002 to external account 9876543210
+2024-08-07 08:25:38.9782|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 08:25:39.0102|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 08:25:39.0168|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 08:25:39.0168|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 08:25:39.0276|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 08:25:39.0276|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 08:25:39.0276|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 08:25:39.0276|INFO|ConsoleApp22.Program|External transfer of 1000.00 initiated from account SAV1002 to external account 9876543210
+2024-08-07 15:32:31.1238|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 15:32:31.2049|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 15:32:31.2167|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 15:32:31.2316|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 15:32:31.2316|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 15:32:31.2316|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 15:32:31.2316|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 15:32:31.2504|INFO|ConsoleApp22.Program|External transfer of 1000.00 initiated from account SAV1002 to external account 9876543210
+2024-08-07 16:37:38.5736|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 16:37:38.6057|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 16:37:38.6057|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 16:37:38.6200|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 16:37:38.6200|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 16:37:38.6200|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 16:37:38.6200|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 16:37:38.6200|INFO|ConsoleApp22.Program|External transfer of 1000.00 initiated from account SAV1002 to external account 9876543210
+2024-08-07 20:35:15.6867|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 20:35:15.7566|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 20:35:15.7689|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 20:35:15.7980|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 20:35:15.8193|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 20:35:15.8193|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 20:35:15.8193|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 20:35:15.8873|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 28
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 20:36:46.5816|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 20:36:46.5970|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 20:36:46.5970|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 20:36:46.5970|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 20:36:46.6045|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 20:36:46.6045|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 20:36:46.6045|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 20:36:46.6045|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 28
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 20:42:35.7029|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 20:42:35.7208|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 20:42:35.7208|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 20:42:35.7208|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 20:42:35.7208|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 20:42:35.7208|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 20:42:35.7208|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 20:42:35.7414|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 30
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 20:45:12.6035|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 20:45:12.6275|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 20:45:12.6275|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 20:45:12.6275|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 20:45:12.6275|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 20:45:12.6275|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 20:45:12.6275|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 20:45:12.6445|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 30
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 20:54:26.8328|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 20:54:26.8729|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 20:54:26.8729|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 20:54:26.8871|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 20:54:26.8871|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 20:54:26.8871|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 20:54:26.8871|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 20:56:58.4307|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 20:56:58.4582|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 20:56:58.4582|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 20:56:58.4696|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 20:56:58.4696|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 20:56:58.4696|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 20:56:58.4696|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 20:59:04.2324|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 20:59:04.2806|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 20:59:04.2806|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 20:59:04.2941|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 20:59:04.2941|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 20:59:04.2941|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 20:59:04.2941|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 20:59:04.3285|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 30
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 21:00:02.2297|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 21:00:02.2785|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 21:00:02.2785|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 21:00:02.2785|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 21:00:02.2785|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 21:00:02.2785|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 21:00:02.2785|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 21:00:02.3072|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 30
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 21:00:17.7057|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 21:00:17.7317|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 21:00:17.7317|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 21:00:17.7317|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 21:00:17.7317|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 21:00:17.7317|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 21:00:17.7317|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 21:00:17.7557|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 30
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 21:10:43.8144|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 21:10:43.8354|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 21:10:43.8394|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 21:10:43.8394|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 21:10:43.8394|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 21:10:43.8394|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 21:10:43.8394|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 21:10:43.8687|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 30
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 22:39:18.7921|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 22:39:18.8700|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 22:39:18.8874|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 22:39:18.8874|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 22:39:18.9055|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 22:39:18.9055|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 22:39:18.9055|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 22:39:19.6431|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 31
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 22:40:54.9165|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 22:40:54.9526|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 22:40:54.9526|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 22:40:54.9724|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 22:40:54.9724|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 22:40:54.9724|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 22:40:54.9724|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 22:40:55.1853|ERROR|ConsoleApp22.Program|An error occured
+System.TypeInitializationException: The type initializer for 'ConsoleApp22.ExternalBankServiceFactory' threw an exception.
+ ---> System.ArgumentNullException: Value cannot be null. (Parameter 'type')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic, Boolean wrapExceptions)
+   at ConsoleApp22.ExternalBankServiceFactory.LoadBankServicesFromConfig() in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 48
+   at ConsoleApp22.ExternalBankServiceFactory..ctor() in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 18
+   at ConsoleApp22.ExternalBankServiceFactory..cctor() in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 13
+   --- End of inner exception stack trace ---
+   at ConsoleApp22.ExternalBankServiceFactory.get_Instance() in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 21
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 107
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-07 23:12:10.0383|INFO|ConsoleApp22.Program|Application started.
+2024-08-07 23:12:10.0726|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-07 23:12:10.0874|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-07 23:12:10.0996|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-07 23:12:10.0996|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-07 23:12:10.0996|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-07 23:12:10.0996|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-07 23:12:10.3849|ERROR|ConsoleApp22.Program|An error occured
+System.TypeInitializationException: The type initializer for 'ConsoleApp22.ExternalBankServiceFactory' threw an exception.
+ ---> System.ArgumentNullException: Value cannot be null. (Parameter 'type')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic, Boolean wrapExceptions)
+   at ConsoleApp22.ExternalBankServiceFactory.LoadBankServicesFromConfig() in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 48
+   at ConsoleApp22.ExternalBankServiceFactory..ctor() in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 18
+   at ConsoleApp22.ExternalBankServiceFactory..cctor() in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 13
+   --- End of inner exception stack trace ---
+   at ConsoleApp22.ExternalBankServiceFactory.get_Instance() in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 21
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 107
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 99
+2024-08-08 00:02:28.1102|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 00:04:01.1767|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 00:05:55.9252|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 00:09:53.8712|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 00:11:09.1946|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 00:19:25.4770|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 00:20:06.3567|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 00:21:18.3695|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 00:26:44.6530|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 08:35:58.3705|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 08:36:41.4117|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 08:36:42.0156|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-08 08:36:42.0156|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-08 08:36:42.0308|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-08 08:36:42.0308|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-08 08:36:42.0308|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-08 08:36:42.0308|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-08 08:36:42.0551|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at ConsoleApp22.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\ExternalBankServiceFactory.cs:line 31
+   at ConsoleApp22.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 104
+2024-08-08 11:28:46.3809|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 11:28:46.4423|INFO|ConsoleApp22.Program|Account created: SAV1002
+2024-08-08 11:28:46.4506|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1002. New balance: 702000
+2024-08-08 11:28:46.4506|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1002. New balance: 700500
+2024-08-08 11:28:46.4666|INFO|ConsoleApp22.Program|Transferred 500.00 from account SAV1002 to SAV1000
+2024-08-08 11:28:46.4666|INFO|ConsoleApp22.Program|New balance of SAV1002: 700000
+2024-08-08 11:28:46.4666|INFO|ConsoleApp22.Program|New balance of SAV1000: 5000500
+2024-08-08 11:28:47.1523|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at BankApplication.Business.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\ExternalBankServiceFactory.cs:line 31
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 108
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-08 11:51:44.3303|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 11:53:27.6814|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 11:55:17.4995|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:02:45.3572|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:08:48.3063|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:14:02.9819|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:16:27.6480|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:17:00.1466|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:17:44.5016|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:22:34.5214|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:24:06.8210|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:24:07.7619|ERROR|ConsoleApp22.Program|An error occured
+System.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@pin".
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.BankDbRepository.Create(IAccount account) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 45
+   at BankApplication.Business.AccountManager.CreateAccount(String name, Int32 pin, Double balance, PrivilegeType privilegeType, AccountType accountType) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 30
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 53
+ClientConnectionId:ed3d7a0a-d58a-4af1-8004-7a2b06671203
+Error Number:137,State:2,Class:15
+2024-08-08 12:27:53.9233|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:27:54.6633|ERROR|ConsoleApp22.Program|An error occured
+System.Data.SqlClient.SqlException (0x80131904): The variable name '@name' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@pin".
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.BankDbRepository.Create(IAccount account) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 52
+   at BankApplication.Business.AccountManager.CreateAccount(String name, Int32 pin, Double balance, PrivilegeType privilegeType, AccountType accountType) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 30
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 53
+ClientConnectionId:955cf459-43a1-49af-9488-37f2f723bbdb
+Error Number:134,State:1,Class:15
+2024-08-08 12:28:10.5679|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:28:11.8047|ERROR|ConsoleApp22.Program|An error occured
+System.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK__tmp_ms_x__A471AFDA42C0467E'. Cannot insert duplicate key in object 'dbo.Account'. The duplicate key value is (SAV1000).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.BankDbRepository.Create(IAccount account) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 52
+   at BankApplication.Business.AccountManager.CreateAccount(String name, Int32 pin, Double balance, PrivilegeType privilegeType, AccountType accountType) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 30
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 53
+ClientConnectionId:82d54be4-965d-4314-8675-8c268164a4dc
+Error Number:2627,State:1,Class:14
+2024-08-08 12:43:15.5935|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:43:16.5998|INFO|ConsoleApp22.Program|Account created: SAV1001
+2024-08-08 12:43:16.6058|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1001. New balance: 702000
+2024-08-08 12:43:16.6058|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1001. New balance: 700500
+2024-08-08 12:43:16.6287|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at BankApplication.Business.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\ExternalBankServiceFactory.cs:line 31
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 111
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-08 12:43:33.5965|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:43:34.5543|INFO|ConsoleApp22.Program|Account created: SAV1005
+2024-08-08 12:43:34.5656|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1005. New balance: 702000
+2024-08-08 12:43:34.5744|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1005. New balance: 700500
+2024-08-08 12:43:34.6000|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at BankApplication.Business.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\ExternalBankServiceFactory.cs:line 31
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 111
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-08 12:44:10.0170|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:44:10.9278|INFO|ConsoleApp22.Program|Account created: SAV1009
+2024-08-08 12:44:10.9365|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1009. New balance: 702000
+2024-08-08 12:44:10.9365|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1009. New balance: 700500
+2024-08-08 12:44:10.9684|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at BankApplication.Business.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\ExternalBankServiceFactory.cs:line 31
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 111
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-08 12:58:24.5120|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 12:58:25.7921|INFO|ConsoleApp22.Program|Account created: SAV1013
+2024-08-08 12:58:25.8078|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1013. New balance: 702000
+2024-08-08 12:58:25.8267|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1013. New balance: 700500
+2024-08-08 12:58:25.8751|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at BankApplication.Business.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\ExternalBankServiceFactory.cs:line 31
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 111
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-08 14:04:42.6564|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 14:04:43.2664|INFO|ConsoleApp22.Program|Account created: SAV1017
+2024-08-08 14:04:43.2664|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1017. New balance: 702000
+2024-08-08 14:04:43.2912|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1017. New balance: 700500
+2024-08-08 14:04:43.3586|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at BankApplication.Business.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\ExternalBankServiceFactory.cs:line 31
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 111
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-08 14:57:26.1518|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 14:57:27.4067|INFO|ConsoleApp22.Program|Account created: SAV1021
+2024-08-08 14:57:27.4387|ERROR|ConsoleApp22.Program|An error occured
+System.InvalidOperationException: ExecuteNonQuery: CommandText property has not been initialized
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(Boolean async, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.BankDbRepository.Update(String accountNumber, Double balance) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 94
+   at BankApplication.Business.AccountManager.Deposit(IAccount toAccount, Double amount) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 61
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 60
+2024-08-08 14:58:38.8002|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 14:58:39.8931|INFO|ConsoleApp22.Program|Account created: SAV1023
+2024-08-08 14:58:39.9130|INFO|ConsoleApp22.Program|Deposited 2000.00 to account SAV1023. New balance: 702000
+2024-08-08 14:58:39.9260|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account SAV1023. New balance: 700500
+2024-08-08 14:58:39.9665|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at BankApplication.Business.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\ExternalBankServiceFactory.cs:line 31
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 122
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-08 15:05:29.2844|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 15:05:30.1854|INFO|ConsoleApp22.Program|Account created: CUR1027
+2024-08-08 15:05:30.2031|INFO|ConsoleApp22.Program|Deposited 2000.00 to account CUR1027. New balance: 72000
+2024-08-08 15:05:30.2338|ERROR|ConsoleApp22.Program|An error occured
+BankApplication.CommonLayer.InvalidPinException: Enter a correct pin
+   at BankApplication.Business.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 146
+   at BankApplication.Business.AccountManager.Withdraw(IAccount fromAccount, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 36
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 65
+2024-08-08 15:06:35.9573|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 15:06:36.7042|INFO|ConsoleApp22.Program|Account created: CUR1029
+2024-08-08 15:06:36.7171|INFO|ConsoleApp22.Program|Deposited 2000.00 to account CUR1029. New balance: 72000
+2024-08-08 15:06:36.7301|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account CUR1029. New balance: 70500
+2024-08-08 15:06:36.7719|ERROR|ConsoleApp22.Program|An error occured
+BankApplication.CommonLayer.InvalidPinException: Enter a correct pin
+   at BankApplication.Business.AccountManager.ValidateAccount(IAccount account, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 146
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 100
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-08 15:09:06.8170|INFO|ConsoleApp22.Program|Application started.
+2024-08-08 15:09:07.6340|INFO|ConsoleApp22.Program|Account created: CUR1033
+2024-08-08 15:09:07.6482|INFO|ConsoleApp22.Program|Deposited 2000.00 to account CUR1033. New balance: 72000
+2024-08-08 15:09:07.6589|INFO|ConsoleApp22.Program|Withdrew 1500.00 from account CUR1033. New balance: 70500
+2024-08-08 15:09:07.6969|ERROR|ConsoleApp22.Program|An error occured
+System.ArgumentException: Unsupported bank code: CITI
+   at BankApplication.Business.ExternalBankServiceFactory.GetExternalBankService(String bankCode) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\ExternalBankServiceFactory.cs:line 31
+   at BankApplication.Business.AccountManager.ExternalTransferFunds(ExternalTransfer transfer) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 122
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 105
+2024-08-09 23:32:36.5782|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 12:11:19.5223|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 12:30:46.3005|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 12:31:30.0827|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 12:31:49.9371|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@accId".
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at BankApplication.DataAccess.BankDbRepository.GetAccountById(String accountNumber) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 173
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 40
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:69eba28c-4e05-4ba7-9009-9b277c1304f3
+Error Number:137,State:2,Class:15
+2024-08-10 12:38:37.6448|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 12:40:10.0710|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 12:40:47.5577|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 43
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+2024-08-10 12:41:44.5413|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 12:43:53.5617|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 13:00:09.3277|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 13:03:04.8227|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 13:56:31.3558|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 14:02:34.7774|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 14:07:37.7227|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 14:11:20.4180|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 14:56:24.6838|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 16:19:33.2438|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 16:20:40.5401|ERROR|ConsoleApp22.Program|Error during Creating Account:
+BankApplication.CommonLayer.InvalidPolicyTypeException: Exception of type 'BankApplication.CommonLayer.InvalidPolicyTypeException' was thrown.
+   at BankApplication.CommonLayer.PolicyFactory.CreatePolicy(String accType, String privilege) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\PolicyFactory.cs:line 53
+   at BankApplication.Business.AccountManager.CreateAccount(String name, Int32 pin, Double balance, PrivilegeType privilegeType, AccountType accountType)
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 57
+2024-08-10 16:29:09.3508|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 16:29:28.4799|ERROR|ConsoleApp22.Program|Error during Creating Account:
+System.Data.SqlClient.SqlException (0x80131904): Column name or number of supplied values does not match table definition.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.BankDbRepository.Create(IAccount account) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 53
+   at BankApplication.Business.AccountManager.CreateAccount(String name, Int32 pin, Double balance, PrivilegeType privilegeType, AccountType accountType) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 41
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 57
+ClientConnectionId:5d2598e3-ec66-4d25-884a-c4178d08fe73
+Error Number:213,State:1,Class:16
+2024-08-10 16:33:20.1648|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 16:33:40.1987|ERROR|ConsoleApp22.Program|Error during Creating Account:
+System.ArgumentException: No mapping exists from object type BankApplication.CommonLayer.Policy to a known managed provider native type.
+   at System.Data.SqlClient.MetaType.GetMetaTypeFromValue(Type dataType, Object value, Boolean inferLen, Boolean streamAllowed)
+   at System.Data.SqlClient.MetaType.GetMetaTypeFromType(Type dataType)
+   at System.Data.SqlClient.SqlParameter.GetMetaTypeOnly()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.BuildParamList(TdsParser parser, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildExecuteSql(CommandBehavior behavior, String commandText, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.BankDbRepository.Create(IAccount account) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 54
+   at BankApplication.Business.AccountManager.CreateAccount(String name, Int32 pin, Double balance, PrivilegeType privilegeType, AccountType accountType) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 41
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 57
+2024-08-10 16:34:33.1720|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 16:34:47.2169|ERROR|ConsoleApp22.Program|Error during Creating Account:
+System.ArgumentException: No mapping exists from object type BankApplication.CommonLayer.Policy to a known managed provider native type.
+   at System.Data.SqlClient.MetaType.GetMetaTypeFromValue(Type dataType, Object value, Boolean inferLen, Boolean streamAllowed)
+   at System.Data.SqlClient.MetaType.GetMetaTypeFromType(Type dataType)
+   at System.Data.SqlClient.SqlParameter.GetMetaTypeOnly()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.BuildParamList(TdsParser parser, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildExecuteSql(CommandBehavior behavior, String commandText, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.BankDbRepository.Create(IAccount account) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 54
+   at BankApplication.Business.AccountManager.CreateAccount(String name, Int32 pin, Double balance, PrivilegeType privilegeType, AccountType accountType) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 41
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 57
+2024-08-10 19:46:51.2473|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 19:47:26.9398|ERROR|ConsoleApp22.Program|Error during Creating Account:
+System.Data.SqlClient.SqlException (0x80131904): Column name or number of supplied values does not match table definition.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.BankDbRepository.Create(IAccount account) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 54
+   at BankApplication.Business.AccountManager.CreateAccount(String name, Int32 pin, Double balance, PrivilegeType privilegeType, AccountType accountType) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 41
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 57
+ClientConnectionId:f146b36a-b38d-4b39-8d51-73f7f00247ba
+Error Number:213,State:1,Class:16
+2024-08-10 19:52:12.7317|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 20:01:02.4884|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 20:02:42.9735|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'accounts'.
+   at BankApplication.DataAccess.BankDbRepository.GetAccountById(String accountNo) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\BankDbRepository.cs:line 211
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 50
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:5e0c9369-8824-46af-a603-6f20b84914b6
+Error Number:208,State:1,Class:16
+2024-08-10 20:03:23.0602|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.ArgumentException: No mapping exists from object type BankApplication.CommonLayer.Current to a known managed provider native type.
+   at System.Data.SqlClient.MetaType.GetMetaTypeFromValue(Type dataType, Object value, Boolean inferLen, Boolean streamAllowed)
+   at System.Data.SqlClient.MetaType.GetMetaTypeFromType(Type dataType)
+   at System.Data.SqlClient.SqlParameter.GetMetaTypeOnly()
+   at System.Data.SqlClient.SqlParameter.Validate(Int32 index, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.BuildParamList(TdsParser parser, SqlParameterCollection parameters)
+   at System.Data.SqlClient.SqlCommand.BuildExecuteSql(CommandBehavior behavior, String commandText, SqlParameterCollection parameters, _SqlRPC& rpc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction)
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+2024-08-10 21:13:53.7663|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 21:14:51.0453|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near the keyword 'Transaction'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\TransactionRepository.cs:line 45
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:cd5bea99-0c6e-4318-a9ae-26dce118d9a5
+Error Number:156,State:1,Class:15
+2024-08-10 22:04:47.1701|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 22:05:10.9410|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the CHECK constraint "CK_TransactionType". The conflict occurred in database "BankDB", table "dbo.Transaction", column 'TransactionType'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\TransactionRepository.cs:line 47
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:dee6784d-fd2f-41b9-beea-93bd25b41d65
+Error Number:547,State:0,Class:16
+2024-08-10 22:10:22.7075|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the CHECK constraint "CK_TransactionType". The conflict occurred in database "BankDB", table "dbo.Transaction", column 'TransactionType'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\TransactionRepository.cs:line 47
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:dee6784d-fd2f-41b9-beea-93bd25b41d65
+Error Number:547,State:0,Class:16
+2024-08-10 22:15:13.3873|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the CHECK constraint "CK_TransactionType". The conflict occurred in database "BankDB", table "dbo.Transaction", column 'TransactionType'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\TransactionRepository.cs:line 47
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin)
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:d060e239-91a9-42e5-b62f-3bcbcfebfca7
+Error Number:547,State:0,Class:16
+2024-08-10 22:17:12.8523|INFO|ConsoleApp22.Program|Application started.
+2024-08-10 22:17:44.1138|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the CHECK constraint "CK_TransactionType". The conflict occurred in database "BankDB", table "dbo.Transaction", column 'TransactionType'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\TransactionRepository.cs:line 47
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:faf67122-889a-43e8-a0fd-8cf43aa77d55
+Error Number:547,State:0,Class:16
+2024-08-12 08:59:50.3842|INFO|ConsoleApp22.Program|Application started.
+2024-08-12 09:01:04.9727|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the CHECK constraint "CK_TransactionType". The conflict occurred in database "BankDB", table "dbo.Trans", column 'transactionType'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\TransactionRepository.cs:line 47
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:ca98a073-3667-44d4-a2eb-93a6873b0f15
+Error Number:547,State:0,Class:16
+2024-08-12 09:04:51.5211|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the CHECK constraint "CK_TransactionType". The conflict occurred in database "BankDB", table "dbo.Trans", column 'transactionType'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction)
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:ca98a073-3667-44d4-a2eb-93a6873b0f15
+Error Number:547,State:0,Class:16
+2024-08-12 09:06:36.8753|INFO|ConsoleApp22.Program|Application started.
+2024-08-12 09:06:46.7980|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the CHECK constraint "CK_TransactionType". The conflict occurred in database "BankDB", table "dbo.Trans", column 'transactionType'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\TransactionRepository.cs:line 49
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:6c35c8c5-776d-4a18-b394-84cb4722ff3b
+Error Number:547,State:0,Class:16
+2024-08-12 09:09:26.2741|ERROR|ConsoleApp22.Program|Error during the withdrawl process !!
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the CHECK constraint "CK_transactionType". The conflict occurred in database "BankDB", table "dbo.Trans", column 'transactionType'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BankApplication.DataAccess.TransactionRepository.Create(Transaction transaction) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\TransactionRepository.cs:line 49
+   at BankApplication.Business.AccountManager.Withdraw(String fromAccountNumber, Double amount, Int32 pin) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\AccountManager.cs:line 90
+   at ConsoleApp22.Program.Main(String[] args) in C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\Program.cs:line 114
+ClientConnectionId:6c35c8c5-776d-4a18-b394-84cb4722ff3b
+Error Number:547,State:0,Class:16
+2024-08-12 09:24:39.2061|INFO|ConsoleApp22.Program|Application started.

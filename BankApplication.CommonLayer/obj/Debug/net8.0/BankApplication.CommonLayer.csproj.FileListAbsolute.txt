@@ -1,0 +1,12 @@
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\bin\Debug\net8.0\BankApplication.CommonLayer.deps.json
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\bin\Debug\net8.0\BankApplication.CommonLayer.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\bin\Debug\net8.0\BankApplication.CommonLayer.pdb
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\obj\Debug\net8.0\BankApplication.CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\obj\Debug\net8.0\BankApplication.CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\obj\Debug\net8.0\BankApplication.CommonLayer.AssemblyInfo.cs
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\obj\Debug\net8.0\BankApplication.CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\obj\Debug\net8.0\BankApplication.CommonLayer.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\obj\Debug\net8.0\refint\BankApplication.CommonLayer.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\obj\Debug\net8.0\BankApplication.CommonLayer.pdb
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\obj\Debug\net8.0\ref\BankApplication.CommonLayer.dll
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.CommonLayer\bin\Debug\net8.0\Policy.properties
