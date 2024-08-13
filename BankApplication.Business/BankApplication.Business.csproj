@@ -15,4 +15,10 @@
     <ProjectReference Include="..\BankApplication.DataAccess\BankApplication.DataAccess.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="serviceBanks.properties">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

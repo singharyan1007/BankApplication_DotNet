@@ -67,6 +67,38 @@ namespace BankApplication.DataAccess
             throw new NotImplementedException();
         }
 
+        private double GetTotalTransferredToday(string accNo)
+        {
+            double totalTransferred = 0;
+
+            SqlConnection conn = new SqlConnection();
+            string connStr = ConfigurationManager.ConnectionStrings["default"].ConnectionString;
+            conn.ConnectionString = connStr;
+
+            string sqlQuery = $"SELECT SUM(amount) FROM Trans WHERE accNo = @accNo AND transactionType = @transactionType AND transDate = @todayDate";
+
+            SqlCommand cmd = new SqlCommand(sqlQuery, conn);
+            cmd.Parameters.AddWithValue("@accNo", accNo);
+            cmd.Parameters.AddWithValue("@transactionType", TransactionType.TRANSFER.ToString());
+            cmd.Parameters.AddWithValue("@todayDate", DateTime.Today);
+
+            try
+            {
+                conn.Open();
+                object result = cmd.ExecuteScalar();
+                if (result != DBNull.Value)
+                {
+                    totalTransferred = Convert.ToDouble(result);
+                }
+            }
+            finally
+            {
+                conn.Close();
+            }
+
+            return totalTransferred;
+        }
+
         public void Update()
         {
             throw new NotImplementedException();

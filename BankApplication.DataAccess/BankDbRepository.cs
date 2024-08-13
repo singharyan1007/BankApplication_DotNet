@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BankApplication.CommonLayer;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Security.Principal;
 
 namespace BankApplication.DataAccess
 {
@@ -292,6 +293,88 @@ namespace BankApplication.DataAccess
             }
             conn.Close();
             return totalWorth;
+
+        }
+
+        public void BankTableDataUpdate(string accNo, string bankCode, double amount)
+
+        {
+            switch (bankCode)
+            {
+                case "ICICI":
+                    ICICIBankUpdate(accNo, amount);
+                    break;
+                case "CITI":
+                    CITIBankUpdate(accNo, amount);
+                    break;
+
+                default:
+                    Console.WriteLine("Bank data failed");
+                    break;
+            }
+
+            
+        }
+
+        public void ICICIBankUpdate(string accNo, double amount)
+        {
+            SqlConnection conn = new SqlConnection();
+
+            string connStr = ConfigurationManager.ConnectionStrings["default"].ConnectionString;
+            conn.ConnectionString = connStr;
+
+            string bankInsert = $"insert into ICICIBANK value(@AccId,@amt)";
+
+            SqlCommand cmd = conn.CreateCommand();
+            SqlParameter p1 = cmd.CreateParameter();
+            p1.ParameterName = "@AccId";
+            p1.Value = accNo;
+            cmd.Parameters.Add(p1);
+
+            cmd.Parameters.AddWithValue("@amt", amount);
+            cmd.CommandText = bankInsert;
+            cmd.Connection = conn;
+
+            try
+            {
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                Console.WriteLine("External transaction table of ICICI updated");
+            }
+            finally { conn.Close(); }
+
+
+            
+        }
+
+        public void CITIBankUpdate(string accNo, double amount)
+        {
+            SqlConnection conn = new SqlConnection();
+
+            string connStr = ConfigurationManager.ConnectionStrings["default"].ConnectionString;
+            conn.ConnectionString = connStr;
+
+            string bankInsert = $"insert into CITIBANK value(@AccId,@amt)";
+
+            SqlCommand cmd = conn.CreateCommand();
+            SqlParameter p1 = cmd.CreateParameter();
+            p1.ParameterName = "@AccId";
+            p1.Value = accNo;
+            cmd.Parameters.Add(p1);
+
+            cmd.Parameters.AddWithValue("@amt", amount);
+            cmd.CommandText = bankInsert;
+            cmd.Connection = conn;
+
+            try
+            {
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                Console.WriteLine("External transaction table of CITI updated");
+            }
+            finally { conn.Close(); }
+
+
 
         }
     }

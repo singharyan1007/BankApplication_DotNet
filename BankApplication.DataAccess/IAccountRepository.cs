@@ -22,6 +22,10 @@ namespace BankApplication.DataAccess
 
         Dictionary<string, long> GetAccountCountByType();
 
+        void BankTableDataUpdate(string accNo, string bankCode, double amount);
+        void ICICIBankUpdate(string accNo, double amount);
+        void CITIBankUpdate(string accNo, double amount);
+
 
 
     }

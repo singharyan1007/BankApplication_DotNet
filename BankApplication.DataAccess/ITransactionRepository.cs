@@ -13,5 +13,7 @@ namespace BankApplication.DataAccess
         List<Transaction> GetAll();
         Transaction GetTransactionById(int transId);
 
+        double GetTotalTransferredToday(string accNo);
+
     }
 }

@@ -10,26 +10,39 @@ namespace BankApplication.Business
 {
     public class ExternalBankServiceFactory
     {
-        private static readonly ExternalBankServiceFactory _instance = new ExternalBankServiceFactory();
-        private readonly IDictionary<string, IExternalBankService> _serviceBankPool;
+        private static readonly ExternalBankServiceFactory instance = new ExternalBankServiceFactory();
+        private readonly Dictionary<string, IExternalBankService> serviceBank;
 
         private ExternalBankServiceFactory()
         {
-            _serviceBankPool = LoadBankServicesFromConfig(); // Load services first
+            serviceBank = new Dictionary<string, IExternalBankService>();
+            LoadServices();
         }
 
-        public static ExternalBankServiceFactory Instance => _instance;
+        public static ExternalBankServiceFactory Instance => instance;
 
-        public IExternalBankService GetExternalBankService(string bankCode)
+        private void LoadServices()
         {
-            if (_serviceBankPool.ContainsKey(bankCode))
+            var properties = new Dictionary<string, string>();
+            string[] lines = File.ReadAllLines("serviceBanks.properties");
+
+            foreach (string line in lines)
             {
-                return _serviceBankPool[bankCode];
+                var parts = line.Split(':');
+                if (parts.Length == 2)
+                {
+                    properties[parts[0]] = parts[1];
+                }
             }
-            else
+        }
+
+        public IExternalBankService GetService(string bankCode)
+        {
+            if (serviceBank.TryGetValue(bankCode, out IExternalBankService service))
             {
-                throw new ArgumentException($"Unsupported bank code: {bankCode}");
+                return service;
             }
+            throw new ArgumentException("Invalid bank code.");
         }
 
         private IDictionary<string, IExternalBankService> LoadBankServicesFromConfig()
