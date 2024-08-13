@@ -265,7 +265,7 @@ namespace BankApplication.Business
             IAccount fromAccount = accountRepository.GetAccountById(accNo);
 
 
-            return fromAccount
+            return fromAccount;
         }
     }
 }

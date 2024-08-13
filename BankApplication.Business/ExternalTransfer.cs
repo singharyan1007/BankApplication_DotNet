@@ -17,6 +17,7 @@ namespace BankApplication.Business
         public TransactionStatus Status { get; set; }
         public ExternalTransfer(IAccount fromAccount, ExternalAccount toExternalAccount, double amount, int fromAccPin) : base(fromAccount, amount)
         {
+            
             this.ToExternalAccount = toExternalAccount;
             this.FromAccPin = fromAccPin;
             this.Status = TransactionStatus.OPEN;

@@ -184,22 +184,19 @@ namespace ConsoleApp22
                         int extTransferPin = int.Parse(Console.ReadLine());
                         Console.Write("Enter Amount to Transfer: ");
                         double extTransferAmount = double.Parse(Console.ReadLine());
-
+                        IAccount FromAccount = accountManager.getAccount(extFromAccNo);
+                        ExternalAccount ExternalAccount = new ExternalAccount(extToAccNo, bankCode, bankName);
                         try
                         {
+
                             // Creating ExternalTransfer object
                             ExternalTransfer externalTransfer = new ExternalTransfer
-                            {
-                                FromAccount = accountManager.getAccount(extFromAccNo),
-                                FromAccPin = extTransferPin,
-                                ToExternalAccount = new ExternalAccount
-                                {
-                                    AccNo = extToAccNo,
-                                    BankCode = bankCode,
-                                    BankName = bankName,
-                                },
-                                Amount = extTransferAmount
-                            };
+                            (
+                               FromAccount,
+                               ExternalAccount,
+                               extTransferAmount,
+                               extTransferPin
+                            );
 
                             bool externalTransferCompleted = accountManager.ExternalTransferFunds(externalTransfer);
                             if (externalTransferCompleted)

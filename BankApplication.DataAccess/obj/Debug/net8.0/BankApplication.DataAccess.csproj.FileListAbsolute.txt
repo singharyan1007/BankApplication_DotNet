@@ -14,3 +14,4 @@ C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\De
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.pdb
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\ref\BankApplication.DataAccess.dll
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\bin\Debug\net8.0\Policy.properties
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.DataAccess\obj\Debug\net8.0\BankApplication.DataAccess.sourcelink.json

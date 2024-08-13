@@ -38,3 +38,5 @@ C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net8.0\Con
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net8.0\ref\ConsoleApp22.dll
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net8.0\ConsoleApp22.dll.config
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net8.0\Policy.properties
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net8.0\ConsoleApp22.sourcelink.json
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net8.0\serviceBanks.properties

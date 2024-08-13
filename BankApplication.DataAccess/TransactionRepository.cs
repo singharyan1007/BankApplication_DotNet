@@ -103,5 +103,10 @@ namespace BankApplication.DataAccess
         {
             throw new NotImplementedException();
         }
+
+        double ITransactionRepository.GetTotalTransferredToday(string accNo)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

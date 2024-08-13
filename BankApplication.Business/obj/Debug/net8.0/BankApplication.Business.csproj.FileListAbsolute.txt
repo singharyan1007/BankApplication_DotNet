@@ -16,3 +16,5 @@ C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\obj\Debu
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\obj\Debug\net8.0\BankApplication.Business.pdb
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\obj\Debug\net8.0\ref\BankApplication.Business.dll
 C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\bin\Debug\net8.0\Policy.properties
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\obj\Debug\net8.0\BankApplication.Business.sourcelink.json
+C:\Users\Aryan.Singh\source\repos\ConsoleApp22\BankApplication.Business\bin\Debug\net8.0\serviceBanks.properties
