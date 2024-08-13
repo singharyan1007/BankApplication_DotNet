@@ -258,5 +258,14 @@ namespace BankApplication.Business
 
             return totalTransferredtoday;
         }
+
+        public IAccount getAccount(string accNo)
+        {
+            IAccountRepository accountRepository = new BankDbRepository();
+            IAccount fromAccount = accountRepository.GetAccountById(accNo);
+
+
+            return fromAccount
+        }
     }
 }

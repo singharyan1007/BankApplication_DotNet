@@ -169,6 +169,58 @@ namespace ConsoleApp22
 
                         }
                         break;
+                    // Case for External Transfer of Funds
+                    case "5":
+                        // External Transfer to another bank
+                        Console.Write("Enter From Account Number: ");
+                        string extFromAccNo = Console.ReadLine().ToUpper();
+                        Console.Write("Enter Bank Code of External Bank: ");
+                        string bankCode = Console.ReadLine().ToUpper();
+                        Console.WriteLine("Enter the Bank Name of the External Bank");
+                        string bankName = Console.ReadLine().ToUpper();
+                        Console.Write("Enter To External Account Number: ");
+                        string extToAccNo = Console.ReadLine().ToUpper();
+                        Console.Write("Enter PIN: ");
+                        int extTransferPin = int.Parse(Console.ReadLine());
+                        Console.Write("Enter Amount to Transfer: ");
+                        double extTransferAmount = double.Parse(Console.ReadLine());
+
+                        try
+                        {
+                            // Creating ExternalTransfer object
+                            ExternalTransfer externalTransfer = new ExternalTransfer
+                            {
+                                FromAccount = accountManager.getAccount(extFromAccNo),
+                                FromAccPin = extTransferPin,
+                                ToExternalAccount = new ExternalAccount
+                                {
+                                    AccNo = extToAccNo,
+                                    BankCode = bankCode,
+                                    BankName = bankName,
+                                },
+                                Amount = extTransferAmount
+                            };
+
+                            bool externalTransferCompleted = accountManager.ExternalTransferFunds(externalTransfer);
+                            if (externalTransferCompleted)
+                            {
+                                Console.WriteLine("----------------------------------------------------------------------------------");
+                                Console.WriteLine("External Transfer successful!");
+                                Console.WriteLine("----------------------------------------------------------------------------------");
+                            }
+                            else
+                            {
+                                Console.WriteLine("----------------------------------------------------------------------------------");
+                                Console.WriteLine("External Transfer failed");
+                                Console.WriteLine("----------------------------------------------------------------------------------");
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"Error: {ex.Message}");
+                            Logger.Error(ex, "Error during the external transfer funds process !!");
+                        }
+                        break;
 
                     case "6":
                         Console.WriteLine("----------------------------------------------------------------------------------");
